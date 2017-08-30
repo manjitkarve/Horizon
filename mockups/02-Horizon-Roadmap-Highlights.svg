@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="horizon-roadmap-highlights.svg"
+   inkscape:version="0.92.2 (unknown)"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1920 1080"
+   height="1152"
+   width="2048"
+   inkscape:export-filename="/home/manjit/github/Horizon/mockups/01-Horizon-Dashboard-WH.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="24"
+     inkscape:window-x="1920"
+     inkscape:window-height="1015"
+     inkscape:window-width="1920"
+     borderlayer="true"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer31"
+     inkscape:document-units="px"
+     inkscape:cy="617.67942"
+     inkscape:cx="1119.4908"
+     inkscape:zoom="0.43603516"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7088"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#d40075;stroke-width:1pt;stroke-opacity:0.31674212;fill:#d40075;fill-opacity:0.31674212"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7086" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5062">
+      <stop
+         style="stop-color:#78909c;stop-opacity:1"
+         offset="0"
+         id="stop5064" />
+      <stop
+         style="stop-color:#546e7a;stop-opacity:1"
+         offset="1"
+         id="stop5066" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9592">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.32664755"
+         offset="0"
+         id="stop9594" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.57879657"
+         offset="1"
+         id="stop9596" />
+    </linearGradient>
+    <clipPath
+       id="clipPath16425"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         transform="matrix(0.93503271,0.05674565,-0.05674752,0.93501584,-714.05749,-106.25989)"
+         inkscape:transform-center-y="2.2705275"
+         inkscape:transform-center-x="-0.25982864"
+         d="m 223.11516,-56.213289 14.72151,29.149069 -23.17322,23.0085442 -29.04334,-14.9290072 5.22344,-32.235177 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.46767311"
+         sodipodi:arg1="-1.0959917"
+         sodipodi:r2="23.233248"
+         sodipodi:r1="27.778549"
+         sodipodi:cy="-31.507545"
+         sodipodi:cx="210.41579"
+         sodipodi:sides="5"
+         id="path16427"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0561614;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </clipPath>
+    <clipPath
+       id="clipPath5202"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0561614;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5204"
+         sodipodi:sides="5"
+         sodipodi:cx="210.41579"
+         sodipodi:cy="-31.507545"
+         sodipodi:r1="27.778549"
+         sodipodi:r2="23.233248"
+         sodipodi:arg1="-1.0959917"
+         sodipodi:arg2="-0.46767311"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 223.11516,-56.213289 14.72151,29.149069 -23.17322,23.0085442 -29.04334,-14.9290072 5.22344,-32.235177 z"
+         inkscape:transform-center-x="-0.25982864"
+         inkscape:transform-center-y="2.2705275"
+         transform="matrix(0.93503269,0.05674565,-0.05674752,0.93501584,-714.05749,-106.25989)" />
+    </clipPath>
+    <clipPath
+       id="clipPath7943"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="82.094566"
+         x="367.42593"
+         height="82.254036"
+         width="82.254036"
+         id="rect7945"
+         style="opacity:1;fill:#b4f000;fill-opacity:0.4756447;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4663">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4665"
+         width="1920"
+         height="1152"
+         x="0"
+         y="-99.63784" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5118">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5120"
+         d="m 273.59233,181.13477 v 277.30859 h 2.6875 V 181.13477 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46400003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cfcdcd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5190">
+      <rect
+         ry="0"
+         rx="0"
+         y="72"
+         x="1485.8208"
+         height="1080"
+         width="89.517883"
+         id="rect5192"
+         style="opacity:0.47099998;fill:url(#linearGradient5194);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5062"
+       id="linearGradient5194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21677636,0,0,0.99826836,1159.3258,0.58304589)"
+       x1="1508.1511"
+       y1="429.57257"
+       x2="1918.9392"
+       y2="429.57257" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8310">
+      <circle
+         style="opacity:1;fill:url(#radialGradient8314);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle8312"
+         cx="55.891521"
+         cy="94.875351"
+         r="24.728403" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9592"
+       id="radialGradient8314"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0409942,0,0,1.0409942,-2.2912287,-3.8893394)"
+       cx="55.891521"
+       cy="94.875351"
+       fx="55.891521"
+       fy="94.875351"
+       r="27.745375" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8525">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path8527"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8525-7">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path8527-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5857">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path5859"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5865">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path5867"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6404">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55686275"
+         id="circle6406"
+         cx="408.55295"
+         cy="123.22159"
+         r="40.897163" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8525-4">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path8527-5"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8525-8">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.3857143;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 1919.9824,151.23047 v 5 h -413 v -5 z"
+         id="path8527-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6404-4">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55686275"
+         id="circle6406-0"
+         cx="408.55295"
+         cy="123.22159"
+         r="40.897163" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2476">
+      <circle
+         style="opacity:0.46000001;fill:#f3f6dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2478"
+         cx="-1721.3885"
+         cy="883.51178"
+         r="86.270996" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2493">
+      <circle
+         style="opacity:0.46000001;fill:#f3f6dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2495"
+         cx="-1764.121"
+         cy="1049.8724"
+         r="265.53192" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2510">
+      <circle
+         style="opacity:0.46000001;fill:#f3f6dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2512"
+         cx="-1731.6436"
+         cy="711.18152"
+         r="144.43031" />
+    </clipPath>
+    <symbol
+       id="symbol8784">
+      <path
+         style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 559.03038,658.83677 -29.79204,17.20044 29.79204,-83.23466 29.79204,83.23466 -29.79204,-17.20044 v 197.80514"
+         id="path926"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:transform-center-y="162.10538" />
+    </symbol>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="Highlights"
+     style="display:inline"
+     transform="translate(0,-72)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer33"
+       inkscape:label="Outlines"
+       transform="translate(0,72)"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:4.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         id="dashboard-roadmap-selector"
+         width="237.32271"
+         height="42.094948"
+         x="167.38544"
+         y="0.11536118"
+         onmouseover="showMe"
+         onclick="selectMe"
+         onmouseout="hideMe"
+         inkscape:label="#dashboard-roadmap-selector">
+        <desc
+           id="desc9334">There's a dashboard and a roadmap view. </desc>
+        <title
+           id="title9332">View selector</title>
+      </rect>
+      <rect
+         onmouseover="showMe"
+         y="151.05296"
+         x="33.322937"
+         height="576.46997"
+         width="175.44771"
+         id="project-header"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:4.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         onclick="selectMe"
+         onmouseout="hideMe">
+        <desc
+           id="desc9322">Projects are grouped by business functions here. This can be any sort of hierarchy and can have more levels, and maybe collapsible.</desc>
+        <title
+           id="title9320">Business areas and related projects</title>
+      </rect>
+      <rect
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:4.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         id="continuance-terminator"
+         width="32.010208"
+         height="376.78247"
+         x="248.94795"
+         y="236.36546"
+         onmouseover="showMe"
+         onclick="selectMe"
+         onmouseout="hideMe">
+        <desc
+           id="desc9328">If a task/feature doesn't end in the viewport, it is indicated using a different terminator.</desc>
+        <title
+           id="title9326">Continued task terminator</title>
+      </rect>
+      <path
+         style="display:inline;fill:#000000;fill-opacity:0.38914029;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1012.2676,33.923905 h 62.9767 v 39.774757 h -23.8649 l 18.5615,1004.975538 h -51.8541 L 1037.4582,73.367204 h -24.8592 z"
+         id="today-line"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         onclick="selectMe"
+         onmouseover="showMe"
+         onmouseout="hideMe"
+         inkscape:label="#today-line">
+        <desc
+           id="desc9340">The &quot;Today&quot; line shows where in the timeline one currently is.</desc>
+        <title
+           id="title9338">The Today Line</title>
+      </path>
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:4.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212"
+         d="m 1254.0547,444.18555 a 44.194177,44.194177 0 0 0 -44.1953,44.19531 44.194177,44.194177 0 0 0 44.1953,44.19336 44.194177,44.194177 0 0 0 42.4765,-32.14063 l 22.5684,16.7461 a 44.194177,44.194177 0 0 0 -18.0234,35.54687 44.194177,44.194177 0 0 0 44.1953,44.19532 44.194177,44.194177 0 0 0 42.9121,-33.84766 l 27.0488,13.52539 a 44.194177,44.194177 0 0 0 -17.9902,35.52344 44.194177,44.194177 0 0 0 44.1953,44.19531 44.194177,44.194177 0 0 0 36.8184,-19.80078 l 32.6211,69.89648 a 44.194177,44.194177 0 0 0 -33.7305,42.88867 44.194177,44.194177 0 0 0 44.1933,44.19336 44.194177,44.194177 0 0 0 44.1954,-44.19336 44.194177,44.194177 0 0 0 -43.3301,-44.15039 l -38.1133,-81.67187 a 44.194177,44.194177 0 0 0 1.5391,-11.35742 44.194177,44.194177 0 0 0 -44.1934,-44.19336 44.194177,44.194177 0 0 0 -14.4336,2.47851 l -37.5781,-18.78906 a 44.194177,44.194177 0 0 0 -44.1543,-43.08594 44.194177,44.194177 0 0 0 -15.7656,2.91992 l -31.2618,-23.19531 a 44.194177,44.194177 0 0 0 -44.1894,-44.07226 z"
+         id="status-indicators"
+         onclick="selectMe"
+         onmouseover="showMe"
+         onmouseout="hideMe"
+         inkscape:connector-curvature="0"
+         transform="scale(0.9375)">
+        <desc
+           id="desc9346">Status and completion icons and guages show how complete the project is. The completion is also indicated using a progress-bar-like gradient in the body of the task.</desc>
+        <title
+           id="title9344">Status indicators</title>
+      </path>
+      <rect
+         onmouseout="hideMe"
+         onclick="selectMe"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:4.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         id="flavours"
+         width="302.94772"
+         height="255.84497"
+         x="1578.323"
+         y="801.67798"
+         onmouseover="showMe">
+        <desc
+           id="desc9352">DIfferent 'flavours' indicate type of tasks and features. These are used to color-code each  task. It's useful to categorize and filter based on these.</desc>
+        <title
+           id="title9350">Flavours</title>
+      </rect>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer31"
+       inkscape:label="Indicators"
+       transform="translate(0,72)"
+       style="display:inline">
+      <use
+         style="display:inline"
+         id="arrow-continuance-terminator"
+         xlink:href="#symbol8784"
+         transform="matrix(-0.20686548,-0.36778077,0.36778077,-0.20686548,176.68262,871.30495)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="-33.68937"
+         inkscape:transform-center-x="-59.89546">
+        <title
+           id="title9330">Continued task terminator</title>
+      </use>
+      <use
+         style="display:inline"
+         id="arrow-project-header"
+         xlink:href="#symbol8784"
+         transform="matrix(-0.19276739,-0.39639618,0.39639618,-0.19276739,63.083532,589.76471)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="-31.200103"
+         inkscape:transform-center-x="-64.158161">
+        <title
+           id="title9324">Business areas and related projects</title>
+      </use>
+      <use
+         style="display:inline"
+         id="arrow-dashboard-roadmap-selector"
+         xlink:href="#symbol8784"
+         transform="matrix(0.34394887,-0.19857897,0.19857897,0.34394887,62.345192,-46.420737)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="55.669375"
+         inkscape:transform-center-x="-32.140732">
+        <title
+           id="title9336">View selector</title>
+      </use>
+      <use
+         style="display:inline"
+         id="arrow-today-line"
+         xlink:href="#symbol8784"
+         transform="matrix(0.41609669,-0.24023353,0.24023353,0.41609669,692.15077,-24.086788)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="67.353295"
+         inkscape:transform-center-x="-38.886439">
+        <title
+           id="title9342">The Today Line</title>
+      </use>
+      <use
+         style="display:inline"
+         id="arrow-status-indicators"
+         xlink:href="#symbol8784"
+         transform="matrix(0.22012409,0.3812661,-0.3812661,0.22012409,1403.0749,247.25863)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="35.631386"
+         inkscape:transform-center-x="61.715216">
+        <title
+           id="title9348">Status indicators</title>
+      </use>
+      <use
+         style="display:inline"
+         id="arrow-flavours"
+         xlink:href="#symbol8784"
+         transform="matrix(-0.38201178,-0.22055461,0.22055461,-0.38201178,1885.8512,1187.2122)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         inkscape:transform-center-y="-62.274007"
+         inkscape:transform-center-x="-35.953957">
+        <title
+           id="title9354">Flavours</title>
+      </use>
+    </g>
+  </g>
+</svg>

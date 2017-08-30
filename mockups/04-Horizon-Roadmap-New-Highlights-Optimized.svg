@@ -1,0 +1,10 @@
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" height="1152" width="2048" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect id="create-roadmap-item" fill-opacity=".18491" height="1080" width="412.91" y="2.8422e-14" x="0" fill="#848484">
+    <desc id="desc11471">Clicking on the global add button triggers this form. The same form is triggered for editing a roadmap item.</desc>
+    <title id="title11469">Create a new roadmap item</title>
+  </rect>
+  <g id="arrow-create-roadmap-item" transform="matrix(-.23205 -.38606 .38606 -.23205 24.472 965.58)">
+    <title id="title11473">Create a new roadmap item</title>
+    <path id="path11465" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+  </g>
+</svg>
