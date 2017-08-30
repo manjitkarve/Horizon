@@ -1,55 +1,80 @@
-<svg id="svg2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" height="1152" width="2048" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs id="defs4">
-    <symbol id="symbol8784">
-      <path id="path926" d="m559.03 658.84-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
-    </symbol>
-  </defs>
-  <g id="layer26" transform="translate(0,-72)">
-    <g id="layer33" fill-opacity=".38914" transform="translate(0,72)">
-      <rect id="dashboard-roadmap-selector" style="image-rendering:auto" onmouseout="hideMe" height="42.095" width="237.32" onmouseover="showMe" onclick="selectMe" y=".11536" x="167.39">
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="layer26">
+    <g id="layer33" class="areas">
+      <rect id="dashboard-roadmap-selector" class="area" fill-opacity=".38914" height="42.095" width="237.32" y=".11536" x="167.39">
         <desc id="desc9334">There&apos;s a dashboard and a roadmap view.</desc>
         <title id="title9332">View selector</title>
       </rect>
-      <rect id="project-header" style="image-rendering:auto" onmouseout="hideMe" height="576.47" width="175.45" onmouseover="showMe" onclick="selectMe" y="151.05" x="33.323">
+      <rect id="project-header" class="area" fill-opacity=".38914" height="576.47" width="175.45" y="151.05" x="33.323">
         <desc id="desc9322">Projects are grouped by business functions here. This can be any sort of hierarchy and can have more levels, and maybe collapsible.</desc>
         <title id="title9320">Business areas and related projects</title>
       </rect>
-      <rect id="continuance-terminator" style="image-rendering:auto" onmouseout="hideMe" height="376.78" width="32.01" onmouseover="showMe" onclick="selectMe" y="236.37" x="248.95">
+      <rect id="continuance-terminator" class="area" fill-opacity=".38914" height="376.78" width="32.01" y="236.37" x="248.95">
         <desc id="desc9328">If a task/feature doesn&apos;t end in the viewport, it is indicated using a different terminator.</desc>
         <title id="title9326">Continued task terminator</title>
       </rect>
-      <path id="today-line" d="m1012.3 33.924h62.977v39.775h-23.865l18.562 1005h-51.854l19.4-1005.3h-24.859z" onmouseout="hideMe" fill-rule="evenodd" onmouseover="showMe" onclick="selectMe">
+      <path id="today-line" d="m1012.3 33.924h62.977v39.775h-23.865l18.562 1005h-51.854l19.4-1005.3h-24.859z" fill-rule="evenodd" fill-opacity=".38914">
         <desc id="desc9340">The &quot;Today&quot; line shows where in the timeline one currently is.</desc>
         <title id="title9338">The Today Line</title>
       </path>
-      <path id="status-indicators" d="m1254.1 444.19a44.194 44.194 0 0 0 -44.195 44.195 44.194 44.194 0 0 0 44.195 44.193 44.194 44.194 0 0 0 42.476 -32.141l22.568 16.746a44.194 44.194 0 0 0 -18.023 35.547 44.194 44.194 0 0 0 44.195 44.195 44.194 44.194 0 0 0 42.912 -33.848l27.049 13.525a44.194 44.194 0 0 0 -17.99 35.523 44.194 44.194 0 0 0 44.195 44.195 44.194 44.194 0 0 0 36.818 -19.801l32.621 69.896a44.194 44.194 0 0 0 -33.73 42.889 44.194 44.194 0 0 0 44.193 44.193 44.194 44.194 0 0 0 44.195 -44.193 44.194 44.194 0 0 0 -43.33 -44.15l-38.113-81.672a44.194 44.194 0 0 0 1.5391 -11.357 44.194 44.194 0 0 0 -44.193 -44.193 44.194 44.194 0 0 0 -14.434 2.4785l-37.578-18.789a44.194 44.194 0 0 0 -44.154 -43.086 44.194 44.194 0 0 0 -15.766 2.9199l-31.262-23.195a44.194 44.194 0 0 0 -44.189 -44.072z" onmouseout="hideMe" transform="scale(.9375)" onmouseover="showMe" onclick="selectMe">
+      <path id="status-indicators" class="area" d="m1254.1 444.19a44.194 44.194 0 0 0 -44.195 44.195 44.194 44.194 0 0 0 44.195 44.193 44.194 44.194 0 0 0 42.476 -32.141l22.568 16.746a44.194 44.194 0 0 0 -18.023 35.547 44.194 44.194 0 0 0 44.195 44.195 44.194 44.194 0 0 0 42.912 -33.848l27.049 13.525a44.194 44.194 0 0 0 -17.99 35.523 44.194 44.194 0 0 0 44.195 44.195 44.194 44.194 0 0 0 36.818 -19.801l32.621 69.896a44.194 44.194 0 0 0 -33.73 42.889 44.194 44.194 0 0 0 44.193 44.193 44.194 44.194 0 0 0 44.195 -44.193 44.194 44.194 0 0 0 -43.33 -44.15l-38.113-81.672a44.194 44.194 0 0 0 1.5391 -11.357 44.194 44.194 0 0 0 -44.193 -44.193 44.194 44.194 0 0 0 -14.434 2.4785l-37.578-18.789a44.194 44.194 0 0 0 -44.154 -43.086 44.194 44.194 0 0 0 -15.766 2.9199l-31.262-23.195a44.194 44.194 0 0 0 -44.189 -44.072z" fill-opacity=".38914" transform="scale(.9375)">
         <desc id="desc9346">Status and completion icons and guages show how complete the project is. The completion is also indicated using a progress-bar-like gradient in the body of the task.</desc>
         <title id="title9344">Status indicators</title>
       </path>
-      <rect id="flavours" style="image-rendering:auto" onmouseout="hideMe" height="255.84" width="302.95" onmouseover="showMe" onclick="selectMe" y="801.68" x="1578.3">
+      <rect id="flavours" class="area" fill-opacity=".38914" height="255.84" width="302.95" y="801.68" x="1578.3">
         <desc id="desc9352">DIfferent &apos;flavours&apos; indicate type of tasks and features. These are used to color-code each  task. It&apos;s useful to categorize and filter based on these.</desc>
         <title id="title9350">Flavours</title>
       </rect>
+      <rect id="stats-and-filters" class="area" fill-opacity=".38914" height="40.978" width="76.749" y="0" x="1843.3">
+        <desc id="desc5096">Triggers for showing the statistics and filter panels.</desc>
+        <title id="title5098">Statistics and Filters</title>
+      </rect>
+      <rect id="fuzzy-search" class="area" fill-opacity=".38914" height="40.978" width="378.35" y="0" x="1465.4">
+        <desc id="desc5169">Search for anything: roadmap items, assignees, time periods (after: mm/dd/yyyy), flavours.</desc>
+        <title id="title5171">Fuzzy Search</title>
+      </rect>
+      <circle id="new-roadmap-trigger" cx="55.473" fill-opacity=".38824" cy="95.664" r="39.447">
+        <desc id="desc5203">Triggers the panel for creating a new roadmap item.</desc>
+        <title id="title5201">New Roadmap Item Trigger</title>
+      </circle>
     </g>
-    <g id="layer31" transform="translate(0,72)">
-      <use id="arrow-continuance-terminator" xlink:href="#symbol8784" transform="matrix(-.20687 -.36778 .36778 -.20687 176.68 871.3)" height="100%" width="100%" y="0" x="0">
-        <title id="title9330">Continued task terminator</title>
-      </use>
-      <use id="arrow-project-header" xlink:href="#symbol8784" transform="matrix(-.19277 -.39640 .39640 -.19277 63.084 589.76)" height="100%" width="100%" y="0" x="0">
-        <title id="title9324">Business areas and related projects</title>
-      </use>
-      <use id="arrow-dashboard-roadmap-selector" xlink:href="#symbol8784" transform="matrix(.34395 -.19858 .19858 .34395 62.345 -46.421)" height="100%" width="100%" y="0" x="0">
-        <title id="title9336">View selector</title>
-      </use>
-      <use id="arrow-today-line" xlink:href="#symbol8784" transform="matrix(.41610 -.24023 .24023 .41610 692.15 -24.087)" height="100%" width="100%" y="0" x="0">
-        <title id="title9342">The Today Line</title>
-      </use>
-      <use id="arrow-status-indicators" xlink:href="#symbol8784" transform="matrix(.22012 .38127 -.38127 .22012 1403.1 247.26)" height="100%" width="100%" y="0" x="0">
-        <title id="title9348">Status indicators</title>
-      </use>
-      <use id="arrow-flavours" xlink:href="#symbol8784" transform="matrix(-.38201 -.22055 .22055 -.38201 1885.9 1187.2)" height="100%" width="100%" y="0" x="0">
-        <title id="title9354">Flavours</title>
-      </use>
+    <g id="layer31" class="arrows">
+      <g id="arrow-continuance-terminator" class="arrow" transform="matrix(-.23205 -.38606 .38606 -.23205 -123.51 1335.3)">
+        <title id="title11473">Continued task terminator</title>
+        <path id="path11465" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-project-header" class="arrow" transform="matrix(-.19692 -.40511 .40511 -.19692 -291.38 1045.1)">
+        <title id="title5060">Business areas and related projects</title>
+        <path id="path5062" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-dashboard-roadmap-selector" class="arrow" transform="matrix(.32510 -.20573 .20573 .32510 -343.86 -291.25)">
+        <title id="title5066">View selector</title>
+        <path id="path5068" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-today-line" class="arrow" transform="matrix(.40053 -.25346 .25346 .40053 174.49 -325.66)">
+        <title id="title5072">The Today Line</title>
+        <path id="path5074" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-status-indicators" class="arrow" transform="matrix(.23013 .37072 -.37072 .23013 1685.8 -227.38)">
+        <title id="title5078">Status indicators</title>
+        <path id="path5080" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-flavours" class="arrow" transform="matrix(-.37602 -.22138 .22138 -.37602 1845.6 1713.2)">
+        <title id="title5084">Flavours</title>
+        <path id="path5086" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-stats-and-filters" class="arrow" transform="matrix(.39996 .17444 -.17444 .39996 1741.6 -842.41)">
+        <title id="title5090">Statistics and Filters</title>
+        <path id="path5092" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-fuzzy-search" class="arrow" transform="matrix(.28239 .33265 -.33265 .28239 1712.3 -818.85)">
+        <title id="title5175">Fuzzy Search</title>
+        <path id="path5177" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
+      <g id="arrow-new-roadmap-trigger" class="arrow" transform="matrix(-.092518 -.37344 .37344 -.092518 -439.18 667.03)">
+        <title id="title5193">New Roadmap Item Trigger</title>
+        <path id="path5195" d="m1131.4 1811.6-29.792 17.2 29.792-83.235 29.792 83.235-29.792-17.2v197.81" fill-rule="evenodd" stroke="#ff0a73" stroke-width="20.344" fill="#ff0a73"/>
+      </g>
     </g>
   </g>
 </svg>

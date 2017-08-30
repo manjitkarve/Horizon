@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="horizon-roadmap-highlights.svg"
+   sodipodi:docname="02-Horizon-Roadmap-Highlights-v2.svg"
    inkscape:version="0.92.2 (unknown)"
    version="1.1"
    id="svg2"
@@ -29,11 +29,11 @@
      borderlayer="true"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer33"
      inkscape:document-units="px"
-     inkscape:cy="617.67942"
-     inkscape:cx="1119.4908"
-     inkscape:zoom="0.43603516"
+     inkscape:cy="505.26935"
+     inkscape:cx="904.23063"
+     inkscape:zoom="0.5377594"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -434,6 +434,48 @@
         <title
            id="title9350">Flavours</title>
       </rect>
+      <rect
+         onmouseover="showMe"
+         y="0"
+         x="1843.2512"
+         height="40.977737"
+         width="76.748749"
+         id="stats-and-filters"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:0.81203938;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         onclick="selectMe"
+         onmouseout="hideMe">
+        <desc
+           id="desc5096">Triggers for showing the statistics and filter panels.</desc>
+        <title
+           id="title5098">Statistics and Filters</title>
+      </rect>
+      <rect
+         onmouseout="hideMe"
+         onclick="selectMe"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38914029;fill-rule:nonzero;stroke:none;stroke-width:1.8029629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.31674212;image-rendering:auto"
+         id="fuzzy-search"
+         width="378.34738"
+         height="40.977737"
+         x="1465.3812"
+         y="0"
+         onmouseover="showMe">
+        <desc
+           id="desc5169">Search for anything: roadmap items, assignees, time periods (after: mm/dd/yyyy), flavours.</desc>
+        <title
+           id="title5171">Fuzzy Search</title>
+      </rect>
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.38823529;fill-rule:nonzero;stroke:none;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="new-roadmap-trigger"
+         cx="55.472889"
+         cy="95.664398"
+         r="39.447388"
+         inkscape:label="#arrow-new-roadmap-trigger">
+        <desc
+           id="desc5203">Triggers the panel for creating a new roadmap item.</desc>
+        <title
+           id="title5201">New Roadmap Item Trigger</title>
+      </circle>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -441,90 +483,150 @@
        inkscape:label="Indicators"
        transform="translate(0,72)"
        style="display:inline">
-      <use
-         style="display:inline"
+      <g
          id="arrow-continuance-terminator"
-         xlink:href="#symbol8784"
-         transform="matrix(-0.20686548,-0.36778077,0.36778077,-0.20686548,176.68262,871.30495)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="-33.68937"
-         inkscape:transform-center-x="-59.89546">
+         transform="matrix(-0.23205265,-0.38606457,0.38606457,-0.23205265,-123.51027,1335.3115)"
+         inkscape:transform-center-x="-62.576597"
+         inkscape:transform-center-y="-37.612222"
+         inkscape:label="#arrow-continuance-terminator">
         <title
-           id="title9330">Continued task terminator</title>
-      </use>
-      <use
-         style="display:inline"
-         id="arrow-project-header"
-         xlink:href="#symbol8784"
-         transform="matrix(-0.19276739,-0.39639618,0.39639618,-0.19276739,63.083532,589.76471)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="-31.200103"
-         inkscape:transform-center-x="-64.158161">
+           id="title11473">Continued task terminator</title>
+        <path
+           inkscape:transform-center-y="162.10538"
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path11465"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:label="#arrow-project-header"
+         inkscape:transform-center-y="-31.918353"
+         inkscape:transform-center-x="-65.663739"
+         transform="matrix(-0.19692459,-0.40511108,0.40511108,-0.19692459,-291.37524,1045.1245)"
+         id="arrow-project-header">
         <title
-           id="title9324">Business areas and related projects</title>
-      </use>
-      <use
-         style="display:inline"
+           id="title5060">Business areas and related projects</title>
+        <path
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           id="path5062"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:transform-center-y="162.10538" />
+      </g>
+      <g
          id="arrow-dashboard-roadmap-selector"
-         xlink:href="#symbol8784"
-         transform="matrix(0.34394887,-0.19857897,0.19857897,0.34394887,62.345192,-46.420737)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="55.669375"
-         inkscape:transform-center-x="-32.140732">
+         transform="matrix(0.32510212,-0.20573168,0.20573168,0.32510212,-343.85977,-291.24867)"
+         inkscape:transform-center-x="-33.345995"
+         inkscape:transform-center-y="52.695296"
+         inkscape:label="#arrow-dashboard-roadmap-selector">
         <title
-           id="title9336">View selector</title>
-      </use>
-      <use
-         style="display:inline"
-         id="arrow-today-line"
-         xlink:href="#symbol8784"
-         transform="matrix(0.41609669,-0.24023353,0.24023353,0.41609669,692.15077,-24.086788)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="67.353295"
-         inkscape:transform-center-x="-38.886439">
+           id="title5066">View selector</title>
+        <path
+           inkscape:transform-center-y="162.10538"
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path5068"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:label="#arrow-today-line"
+         inkscape:transform-center-y="64.921483"
+         inkscape:transform-center-x="-41.082808"
+         transform="matrix(0.40053125,-0.25346487,0.25346487,0.40053125,174.48809,-325.66476)"
+         id="arrow-today-line">
         <title
-           id="title9342">The Today Line</title>
-      </use>
-      <use
-         style="display:inline"
+           id="title5072">The Today Line</title>
+        <path
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           id="path5074"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:transform-center-y="162.10538" />
+      </g>
+      <g
          id="arrow-status-indicators"
-         xlink:href="#symbol8784"
-         transform="matrix(0.22012409,0.3812661,-0.3812661,0.22012409,1403.0749,247.25863)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="35.631386"
-         inkscape:transform-center-x="61.715216">
+         transform="matrix(0.23013236,0.37072282,-0.37072282,0.23013236,1685.7957,-227.37517)"
+         inkscape:transform-center-x="60.089854"
+         inkscape:transform-center-y="37.300946"
+         inkscape:label="#arrow-status-indicators">
         <title
-           id="title9348">Status indicators</title>
-      </use>
-      <use
-         style="display:inline"
-         id="arrow-flavours"
-         xlink:href="#symbol8784"
-         transform="matrix(-0.38201178,-0.22055461,0.22055461,-0.38201178,1885.8512,1187.2122)"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         inkscape:transform-center-y="-62.274007"
-         inkscape:transform-center-x="-35.953957">
+           id="title5078">Status indicators</title>
+        <path
+           inkscape:transform-center-y="162.10538"
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path5080"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:label="#arrow-flavours"
+         inkscape:transform-center-y="-60.947432"
+         inkscape:transform-center-x="-35.88279"
+         transform="matrix(-0.37601777,-0.22137513,0.22137513,-0.37601777,1845.6137,1713.1554)"
+         id="arrow-flavours">
         <title
-           id="title9354">Flavours</title>
-      </use>
+           id="title5084">Flavours</title>
+        <path
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           id="path5086"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:transform-center-y="162.10538" />
+      </g>
+      <g
+         id="arrow-stats-and-filters"
+         transform="matrix(0.39995902,0.17443938,-0.17443938,0.39995902,1741.5681,-842.41132)"
+         inkscape:transform-center-x="28.275077"
+         inkscape:transform-center-y="64.828094"
+         inkscape:label="#arrow-stats-and-filters">
+        <title
+           id="title5090">Statistics and Filters</title>
+        <path
+           inkscape:transform-center-y="162.10538"
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path5092"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         inkscape:label="arrow-fuzzy-search"
+         inkscape:transform-center-y="45.77089"
+         inkscape:transform-center-x="53.918344"
+         transform="matrix(0.28238704,0.33264677,-0.33264677,0.28238704,1712.3237,-818.85342)"
+         id="arrow-fuzzy-search">
+        <title
+           id="title5175">Fuzzy Search</title>
+        <path
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           id="path5177"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:transform-center-y="162.10538" />
+      </g>
+      <g
+         inkscape:label="#arrow-new-roadmap-trigger"
+         inkscape:transform-center-y="-13.283003"
+         inkscape:transform-center-x="-60.530056"
+         transform="matrix(-0.09251815,-0.37343983,0.37343983,-0.09251815,-439.17877,667.02781)"
+         id="arrow-new-roadmap-trigger">
+        <title
+           id="title5193">New Roadmap Item Trigger</title>
+        <path
+           style="fill:#ff0a73;fill-opacity:1;fill-rule:evenodd;stroke:#ff0a73;stroke-width:20.34375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1131.4103,1811.6104 -29.7921,17.2004 29.7921,-83.2346 29.792,83.2346 -29.792,-17.2004 v 197.8051"
+           id="path5195"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc"
+           inkscape:transform-center-y="162.10538" />
+      </g>
     </g>
   </g>
 </svg>
